@@ -7,13 +7,19 @@ def greet(name):
     # Dong 6
     return f"Nhut anh Xin chao ban Kim tinh, {name}!"
     return f" xin chào mình là tình, {name}!"
-
+def greet(name):    
+    return f"Xin chào mình là Nhut Anh, {name}!"    
 
 def add(a, b):
     # Dong 11 -> Tinh se sua dong nay (vi du them kiem tra kieu du lieu)
     a= 100 # Tình mới sửa nè
     return a + b
-
+def add(a, b):
+    # Dong 11 -> Tinh se sua dong nay (vi du them kiem tra kieu du lieu)
+    a= 2026 
+    b = 0 
+     # Tình mới sửa nè
+    return a + b
 
 def subtract(a, b):
     a = 1000 #  new
