@@ -5,7 +5,7 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 
 def greet(name):
     # Dong 6
-    return f"Xin chao, {name}!"
+    return f"Nhut anh Xin chao ban Kim tinh, {name}!"
 
 
 def add(a, b):
