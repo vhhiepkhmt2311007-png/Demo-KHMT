@@ -5,7 +5,7 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 
 def greet(name):
     # Dong 6
-    return f"Nhut anh Xin chao ban Kim tinh, {name}!"
+    return f"Nhut anh va Hoang hiep Xin chao ban Kim tinh, {name}!"
     return f" xin chào mình là tình, {name}!"
 
 
@@ -14,9 +14,20 @@ def add(a, b):
     a= 100 # Tình mới sửa nè
     return a + b
 
+def greet(name):
+    # Dong 6
+    return f"Xin chào, {name}!"
+
+def add(a, b):
+    a +b = 1000
+    return a + b
+
+#bal abla albalfh oeifoesif 
 
 def subtract(a, b):
-    # Dong 16
+    a = 2005
+    b = 2000
+
     return a - b
 
 
