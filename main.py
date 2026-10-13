@@ -5,7 +5,7 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 
 def greet(name):
     # Dong 6
-    return f"Xin chao, {name}!"
+    return f" xin chào mình là tình, {name}!"
 
 
 def add(a, b):
