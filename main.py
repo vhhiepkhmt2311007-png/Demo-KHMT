@@ -16,6 +16,8 @@ def add(a, b):
 
 
 def subtract(a, b):
+    a = 1000 #  new
+    b = 500 #  new
     # Dong 16
     return a - b
 
